@@ -1,18 +1,18 @@
 # Simple Discord Bot
 + This is a real simple-to-host Discord bot in JavaScript, I will explain how to make it and host it below.
-If you want to add me on Discord I am AsleepBoii#0666. Please note that this is a Windows Tutorial, for MacOS, Linux or any other OS this will be a little bit different, but you can use this tutorial, you will just need to have some knowledge of your operating system. The Apps you will need/might be handy are below.
-Command Prompt, pre installed
-Node.js @ https://nodejs.org/download **Needed**
-Notepad++ (Might be handy when editing the code) https://notepad-plus-plus.org/download Might be handy
-Discord Developer Portal https://discord.com/developer/applications Need to visit this site
-{Token} = Insert Token Here (Delete the '{Token}' and insert it);
-{Command} = The Command (Delete {Command} and type your command) e.g. >hi;
-{Response} = The responce to the command (Delete {Response} and type the responce) e.g. Heyo;
+If you want to add me on Discord I am AsleepBoii#0666. Please note that this is a Windows Tutorial, for MacOS, Linux or any other OS this will be a little bit different, but you can use this tutorial, you will just need to have some knowledge of your operating system. The Apps you will need/might be handy are below.; 
+Command Prompt, pre installed; 
+Node.js @ https://nodejs.org/download **Needed**; 
+Notepad++ (Might be handy when editing the code) https://notepad-plus-plus.org/download Might be handy; 
+Discord Developer Portal https://discord.com/developer/applications Need to visit this site; 
+{Token} = Insert Token Here (Delete the '{Token}' and insert it); 
+{Command} = The Command (Delete {Command} and type your command) e.g. >hi; 
+{Response} = The responce to the command (Delete {Response} and type the responce) e.g. Heyo; 
 
-Make a Discord Account IF you don't have one;
-Visit the Discord Developer Portal (Linked in the links @ Discord Developer   Portal);
-Create an application;
-Create a bot (Tutorial in attachments);
+Make a Discord Account IF you don't have one; 
+Visit the Discord Developer Portal (Linked in the links @ Discord Developer Portal); 
+Create an application; 
+Create a bot (Tutorial in attachments); 
 Go to OAuth2 and tick the bot checkbox, and below the link, tick Administrator.; 
 Copy the link given.; 
 Create a Discord Server; 
